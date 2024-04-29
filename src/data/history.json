@@ -1,0 +1,41 @@
+[
+  {
+    "role": "Web Developer",
+    "organisation": "Freelance",
+    "startDate": "Aug, 2020",
+    "endDate": "Present",
+    "experiences": [
+      "Built and customized websites to meet client specifications.", 
+      "Handled server setup and migrations as part of cost saving initiatives."
+    ]
+  },
+  {
+    "role": "Bachelor's of Computer Science",
+    "organisation": "SNHU",
+    "startDate": "Jan, 2017",
+    "endDate": "Aug, 2020",
+    "experiences": [
+      "Pursued Bachelor's degree in Computer Science, completing numerous honors projects."
+    ]
+  },
+  {
+    "role": "Network Communications Engineer",
+    "organisation": "BAE Systems",
+    "startDate": "Jan, 2017",
+    "endDate": "Apr, 2016",
+    "experiences": [
+      "Conducted emergency troubleshooting when necessary to ensure 24/7/365 communication.", 
+      "Monitored software and hardware configurations for classified networks across 4 systems."
+    ]
+  },
+  {
+    "role": "Satellite Communications Engineer",
+    "organisation": "US Army",
+    "startDate": "Apr, 2011",
+    "endDate": "Apr, 2016",
+    "experiences": [
+      "Monitored and optimized system performance, ensuring compliance with established security practices.",
+      "Use of Linux RedHat to load and manage key storage for all digital devices, as well as audit log maintenance."
+        ]
+  }
+]
