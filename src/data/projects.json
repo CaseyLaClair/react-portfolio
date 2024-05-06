@@ -1,26 +1,50 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Casey's Recipe Finder",
+    "imageSrc": "projects/caseysrecipefinder.png",
+    "description": "This is a project made to learn React and API integration.",
+    "skills": ["React", "Javascript", "Node", "Vite", "Tailwind", "APIs", "Git"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/CaseyLaClair/recipe-app-main"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Linn Mariano Fitness",
+    "imageSrc": "projects/linnmarianofitness.png",
+    "description": "Client website for fitness and nutritional health coaching.",
+    "skills": ["Wordpress", "PHP", "SQL"],
+    "demo": "https://www.linnmarianofitness.com",
+    "source": "https://github.com/CaseyLaClair"
   },
   {
-    "title": "Project C",
+    "title": "Life in Me Doula",
+    "imageSrc": "projects/lifeinmedoula.png",
+    "description": "Client website for Doula services and birthing assistance.",
+    "skills": ["Wordpress", "PHP", "SQL"],
+    "demo": "https://www.lifeinmedoula.org",
+    "source": "https://github.com/CaseyLaClair"
+  },
+  {
+    "title": "To Do List - Chrome Extension",
+    "imageSrc": "projects/todochrome.png",
+    "description": "Project to create a To Do list tracker and publish as a chrome extension.",
+    "skills": ["HTML", "CSS", "Javascript", "JSON", "Git", "Github"],
+    "demo": "https://github.com/CaseyLaClair/todo_list_chrome_extension/tree/main",
+    "source": "https://github.com/CaseyLaClair/todo_list_chrome_extension/tree/main"
+  },
+  {
+    "title": "Memorease",
+    "imageSrc": "projects/memorease.png",
+    "description": "An honors project for Advanced Java Programming course. An Android app for studying.",
+    "skills": ["Java", "Android", "SQLite", "XML"],
+    "demo": "https://github.com/CaseyLaClair/MemoreaseNew/tree/master/Memorease-master-MilestoneTwo/Memorease-master-updated",
+    "source": "https://github.com/CaseyLaClair/MemoreaseNew/tree/master/Memorease-master-MilestoneTwo/Memorease-master-updated"
+  },
+  {
+    "title": "This Portfolio",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This portfolio was made to showcase my projects and relative technical skills.",
+    "skills": ["React", "Vite", "Node", "CSS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/CaseyLaClair/react-portfolio"
   }
 ]
